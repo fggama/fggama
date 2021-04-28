@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hola a todos 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/freddygmassa?color=%231DA1F2&label=Twitter&style=social)](https://twitter.com/FreddyGMassa)
 
-**fggama/fggama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Estamos:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2FFreddyGMassa)
+
 
