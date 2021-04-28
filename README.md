@@ -5,8 +5,8 @@
 
 - 🔭 Estoy trabajando en _Sistema de Seguimiento de Proyectos (C#)_
 - 🌱 Aprendiendo _Data Science with Python_, _Ethical Hacking_
-- 💬 Ask me about ...
-- 📫 How to reach me: ![Correo](https://simpleicons.org/icons/gmail.svg)
+
+- :e-mail: Correo: _fggama@gmail.com_
 
 
 
