@@ -1,7 +1,7 @@
-Hola 👋 Mi nombre es Freddy Garcia Massa
+Hola 👋 mi nombre es Freddy Garcia Massa
 ==============================
 
-Software developer
+Soy desarrollador de Software
 ------------------
 
 * 🌍  Vivo en La Paz, Bolivia
