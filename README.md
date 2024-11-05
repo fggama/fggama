@@ -1,4 +1,4 @@
-Hi 👋 My name is Freddy Garcia
+Hola 👋 Mi nombre es Freddy Garcia Massa
 ==============================
 
 Software developer
